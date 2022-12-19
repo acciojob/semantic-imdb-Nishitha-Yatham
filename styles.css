@@ -1,2 +1,28 @@
 
 /* Your CSS Code here. */
+.content{
+    color:blueviolet;
+    padding-left: 20px;
+}
+.item{
+    padding-top: 50px;
+    color:rgb(0, 0, 0);
+    font-size: 18px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#mov{
+    padding-left: 50px;
+    color:rgb(85, 0, 255);
+    
+}
+#rating{
+    padding-left: 8px;
+    font-style: italic;
+}
+#date{
+    padding-left: 8px;
+    font-style: italic;
+}
+.rat{
+    padding-top: 20px;
+}
